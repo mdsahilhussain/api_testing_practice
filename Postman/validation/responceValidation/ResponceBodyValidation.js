@@ -29,6 +29,12 @@ expect(jsonData.courses[0]).to.eql("Java") ;
 expect(jsonData.courses[1]).to.eql("Selenium") ;
 });
 
+//*  ==========================================================================================================================
+//*  =======  Json schema is a specification for json based formet for defining the structure of the json data          =======
+//*  =======  Tt use to validate json documents.                                                                        =======
+//*  =======  Copy Json data and goes to any json to json schema convertor website to convert json data to json schema  =======
+//*  ==========================================================================================================================
+
 //! Validating JSON Schema
 var schema ={
     "$schema": "http://json-schema.org/draft-04/schema#",
