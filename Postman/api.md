@@ -33,5 +33,5 @@ When an API has passed all testing and is made available to the public for use, 
 
 Restful services are the services that are build using ther [Restfull Architecture](https://link-url-here.org) style.
 
-<p align="center" font-size ="2rem" font-weight ="600">Web api = Restfull services</p>
-<p align="center" font-size ="2rem" font-weight ="600">web services = SOAP services</p>
+<p align="center" font-size="4rem" font-weight="600" color="red">Web api = Restfull services</p>
+<p align="center" font-size="4rem" font-weight="600" color="red" >web services = SOAP services</p>
