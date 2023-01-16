@@ -14,6 +14,8 @@ The consumer then orders food from the waiter, who then communicates the order t
 also known as the backend or server.
 The chef prepares the food and the waiter brings it to the consumer as a response.
 
+![resturant example](https://user-images.githubusercontent.com/70509500/212599468-4f002dec-ba69-4dfb-a66e-2261eeab14a9.png)
+
 ### Type of API.
 
 - Simple Object Access Protocal. (SOAP). // {Old one}
@@ -31,5 +33,5 @@ When an API has passed all testing and is made available to the public for use, 
 
 Restful services are the services that are build using ther [Restfull Architecture](https://link-url-here.org) style.
 
-<h2 align="center" font-size ="2rem" font-weight ="600">Web api = Restfull services</h2>
-<h2 align="center" font-size ="2rem" font-weight ="600">web services = SOAP services</h2>rem
+<p align="center" font-size ="2rem" font-weight ="600">Web api = Restfull services</p>
+<p align="center" font-size ="2rem" font-weight ="600">web services = SOAP services</p>
