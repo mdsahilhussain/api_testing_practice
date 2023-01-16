@@ -17,11 +17,11 @@ A server is a computer program or device that provides a service to another comp
 - 3 - Tier Architecture.
 
 ### 1- Tier Architecture.
-When we run client and server with the same machine which is come under in 1 - Tier architecture.
+When we run client and server with the same machine which is come under in 1 - Tier architecture.\
 ![Software-Architecture-Type-1tier](https://user-images.githubusercontent.com/70509500/212599051-ce5662ce-bf9d-4064-a8e3-8048323c0652.png)
 
 ### 2 - Tier Architecture.
-When there are multiple clients on the first tier and all these clients access the services of the same server in a local environment, it is considered to be a 2-Tier architecture.
+When there are multiple clients on the first tier and all these clients access the services of the same server in a local environment, it is considered to be a 2-Tier architecture.\
 ![1_z76hr15cj2CVVlWDNITV2A](https://user-images.githubusercontent.com/70509500/212599067-b3aee9a1-baa3-4c80-88eb-5b0c31622c07.png)
 
 ### 3 - Tier Architecture.
